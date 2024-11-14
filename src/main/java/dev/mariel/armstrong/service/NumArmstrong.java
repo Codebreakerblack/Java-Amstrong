@@ -1,4 +1,4 @@
-package dev.mariel.armstrong;
+package dev.mariel.armstrong.service;
 
 public class NumArmstrong {
 

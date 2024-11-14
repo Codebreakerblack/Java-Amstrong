@@ -1,6 +1,8 @@
-package dev.mariel.armstrong;
+package dev.mariel.armstrong.App;
 
 import java.util.Scanner;
+
+import dev.mariel.armstrong.service.NumArmstrong;
 
 public class App {
 
